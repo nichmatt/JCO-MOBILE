@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Alcapone",
+    "description": "Donut dipped in white choocolate and topped with sliced toasted almonds",
+    "price": 8500,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/d25b3db0-021a-4789-8cdb-0baed71e2b96.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 1,
+    "createdAt": "2023-08-10T08:12:40.256Z",
+    "updatedAt": "2023-08-12T04:32:51.761Z"
+  },
+  {
+    "name": "Americano",
+    "description": "Coffee with water only",
+    "price": 20000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jcoffee/d7c2fc34-eb5d-470f-81fc-336af0e66268.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 2,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-12T04:34:05.165Z"
+  },
+  {
+    "name": "Avocado Frape",
+    "description": "Avocado juice with coffee",
+    "price": 38000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jcoffee/dd7bce00-6980-4c8e-b1ba-afba268860b1.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 2,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-12T04:34:05.165Z"
+  },
+  {
+    "name": "Cafe Late",
+    "description": "Your beloved Latte",
+    "price": 28000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jcoffee/861c6a43-8dad-43f1-99e9-452952d6694c.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 2,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-11T14:02:01.380Z"
+  },
+  {
+    "name": "Caramel Frappe",
+    "description": "Espresso shot blended with ice nuggets",
+    "price": 35000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jcoffee/ed43f9e4-daaf-4cec-844e-03020463e4f4.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 2,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-11T14:02:01.380Z"
+  },
+  {
+    "name": "Espresso",
+    "description": "Strong & concentrated coffe shot",
+    "price": 28000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jcoffee/e77de158-7b3c-4b98-8be8-da2e9319297e.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 2,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-11T14:02:01.380Z"
+  },
+  {
+    "name": "Blue Berrymore",
+    "description": "Donut filled with avocado cream, dipped in avocado chocolate, and garnished with dark chocolate flakes.",
+    "price": 8500,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/bd62cf8e-45a0-4ed9-a971-78ec60455055.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 1,
+    "createdAt": "2023-08-10T08:12:40.256Z",
+    "updatedAt": "2023-08-10T08:12:40.256Z"
+  },
+  {
+    "name": "Caviar Chocolate",
+    "description": "Donut filled with whipped cream cheese, dipped in strawberry jam, and garnished with white chocolate flakes.",
+    "price": 8500,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/a97bafad-2f9b-4148-9fc0-114ec47264c0.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 1,
+    "createdAt": "2023-08-10T08:12:40.256Z",
+    "updatedAt": "2023-08-12T04:35:58.807Z"
+  },
+  {
+    "name": "Copa Banana",
+    "description": "donat terenak di bumi",
+    "price": 6000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/019168c4-964b-44e5-a0c9-a6d08c48425e.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 1,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-12T04:34:05.165Z"
+  },
+  {
+    "name": "Cheezy Rich",
+    "description": "Sweet donut sandwich featuring whipped cream cheese",
+    "price": 8500,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jclub/0ece25b8-1a63-4c15-8058-4a8f55553d2e.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 3,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-11T14:02:01.380Z"
+  },
+  {
+    "name": "Chicken Salami",
+    "description": "Savory donut sandwich featuring smoked chicken salami with mayoniaise",
+    "price": 8500,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jclub/04c26634-689d-47e3-919b-635859d55221.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 3,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-11T14:02:01.380Z"
+  },
+  {
+    "name": "Couple",
+    "description": "Fat-free frozen yougurt in original or blueberry flavor with toppings of your choise",
+    "price": 28000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jcool/2a9b4b11-747e-4a36-931e-f7df6140eb7f.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 4,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-11T14:02:01.380Z"
+  },
+  {
+    "name": "Sharing",
+    "description": "Fat-free frozen yougurt in original or blueberry flavor with toppings of your choise",
+    "price": 34000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jcool/d77b4784-62ea-4dac-8e5c-63a85981c6ef.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 4,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-11T14:02:01.380Z"
+  },
+  {
+    "name": "Single",
+    "description": "Fat-free frozen yougurt in original or blueberry flavor with toppings of your choise",
+    "price": 24000,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/jcool/1ce0b922-10a1-412e-b826-94bdb1fa8e1a.jpg",
+    "authorId": "64dca40ba6245e8e2d7fb3a0",
+    "categoryId": 4,
+    "createdAt": "2023-08-11T14:02:01.380Z",
+    "updatedAt": "2023-08-11T14:02:01.380Z"
+  }
+]

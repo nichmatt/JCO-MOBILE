@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Donnut",
+    "createdAt": "1 january 2020",
+    "updatedAt": "1 january 2020"
+  },
+  {
+    "id": 2,
+    "name": "Coffee",
+    "createdAt": "1 january 2020",
+    "updatedAt": "1 january 2020"
+  },
+  {
+    "id": 3,
+    "name": "J.Club",
+    "createdAt": "1 january 2020",
+    "updatedAt": "1 january 2020"
+  },
+  {
+    "id": 4,
+    "name": "J.Cool",
+    "createdAt": "1 january 2020",
+    "updatedAt": "1 january 2020"
+  }
+]
